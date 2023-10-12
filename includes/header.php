@@ -126,46 +126,44 @@
             <rs-module id="rev_slider_7_1" data-version="6.6.12">
                 <rs-slides style="overflow: hidden; position: absolute">
                     <rs-slide style="position: absolute" data-key="rs-1" data-title="Slide"
-                        data-thumb="revolution/images/slider-6-01-100x50.jpg" data-anim="adpr:false;p:dark;f:center;"
+                        data-thumb="revolution/images/slider-6-01-100x50.jpg?=2" data-anim="adpr:false;p:dark;f:center;"
                         data-in="o:0;sx:1.1;sy:1.1;m:true;row:30;col:30;" data-out="a:false;">
-                        <img src="revolution/images/slider-6-01.jpg" alt="" title="slider-6-01" width="1920"
+                        <img src="revolution/images/slider-6-01.jpg?=2" alt="" title="slider-6-01" width="1920"
                             height="790" class="rev-slidebg tp-rs-img rs-lazyload"
-                            data-lazyload="revolution/images/slider-6-01.jpg" data-no-retina />
+                            data-lazyload="revolution/images/slider-6-01.jpg?=2" data-no-retina />
                         <!--
 								-->
                         <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on"
                             data-xy="xo:15px;yo:171px,171px,171px,89px;" data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
                             data-dim="w:93px,93px,93px,37px;h:110px,110px,110px,44px;" data-frame_1="st:900;sp:1500;"
-                            data-frame_999="o:0;st:w;" style="z-index: 8"><img src="revolution/images/slider-6-img.png"
-                                alt="" class="tp-rs-img rs-lazyload" width="93" height="110"
-                                data-lazyload="revolution/images/slider-6-img.png" data-no-retina /> </rs-layer>
+                            data-frame_999="o:0;st:w;" style="z-index: 8"> </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#1a2955" data-rsp_ch="on"
+                        <rs-layer id="slider-1-slide-1-layer-1" data-type="text" data-color="#fff" data-rsp_ch="on"
                             data-xy="xo:15px;yo:284px,284px,284px,134px;"
                             data-text="s:80,80,80,40;l:80,80,80,50;a:inherit;" data-frame_0="x:-100%;o:1;"
                             data-frame_0_mask="u:t;" data-frame_1="st:900;sp:1500;sR:900;" data-frame_1_mask="u:t;"
-                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'">Dedicated
-                            To One <br />Client At A Time. </rs-layer>
+                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'">
+                            Specialist <br> Lawyer. </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-color="#1a2955" data-rsp_ch="on"
+                        <rs-layer id="slider-1-slide-1-layer-2" data-type="text" data-color="#fff" data-rsp_ch="on"
                             data-xy="xo:15px;yo:461px;" data-text="s:22;l:36;a:inherit;" data-vbility="t,t,t,f"
                             data-frame_0="x:-100%;o:1;" data-frame_0_mask="u:t;" data-frame_1="st:1690;sp:1500;sR:1690;"
                             data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5810;"
-                            style="z-index: 6; font-family: 'Montserrat'">Smart approaches to legal solution service.
+                            style="z-index: 6; font-family: 'Montserrat'">Accounting and Tax Advisory..
                         </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#1a2955"
+                        <rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
-                            data-border="bos:solid;boc:#1a2955;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
+                            data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
                             data-frame_999="o:0;st:w;sR:5850;"
-                            data-frame_hover="c:#fff;bgc:#1a2955;boc:#1a2955;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
+                            data-frame_hover="c:#0b2a4a;bgc:#fff;boc:#fff;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
                             style="
                       z-index: 7;
                       background-color: rgba(0, 0, 0, 0);
@@ -181,46 +179,44 @@
 	-->
                     </rs-slide>
                     <rs-slide style="position: absolute" data-key="rs-3" data-title="Slide"
-                        data-thumb="revolution/images/slider-6-02-100x50.jpg" data-anim="adpr:false;p:dark;f:center;"
+                        data-thumb="revolution/images/slider-6-02-100x50.jpg?=1" data-anim="adpr:false;p:dark;f:center;"
                         data-in="o:0;sx:1.1;sy:1.1;m:true;row:30;col:30;" data-out="a:false;">
-                        <img src="revolution/images/slider-6-02.jpg" alt="" title="slider-6-02" width="1920"
+                        <img src="revolution/images/slider-6-02.jpg?=1" alt="" title="slider-6-02" width="1920"
                             height="790" class="rev-slidebg tp-rs-img rs-lazyload"
-                            data-lazyload="revolution/images/slider-6-02.jpg" data-no-retina />
+                            data-lazyload="revolution/images/slider-6-02.jpg?=1" data-no-retina />
                         <!--
 								-->
                         <rs-layer id="slider-1-slide-3-layer-0" data-type="image" data-rsp_ch="on"
                             data-xy="xo:15px;yo:171px,171px,171px,89px;" data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
                             data-dim="w:93px,93px,93px,37px;h:110px,110px,110px,44px;" data-frame_1="st:900;sp:1500;"
-                            data-frame_999="o:0;st:w;" style="z-index: 8"><img src="revolution/images/slider-6-img.png"
-                                alt="" class="tp-rs-img rs-lazyload" width="93" height="110"
-                                data-lazyload="revolution/images/slider-6-img.png" data-no-retina /> </rs-layer>
+                            data-frame_999="o:0;st:w;" style="z-index: 8"> </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-3-layer-1" data-type="text" data-color="#1a2955" data-rsp_ch="on"
+                        <rs-layer id="slider-1-slide-3-layer-1" data-type="text" data-color="#fff" data-rsp_ch="on"
                             data-xy="xo:15px;yo:284px,284px,284px,134px;"
                             data-text="s:80,80,80,40;l:80,80,80,50;a:inherit;" data-frame_0="x:-100%;o:1;"
                             data-frame_0_mask="u:t;" data-frame_1="st:900;sp:1500;sR:900;" data-frame_1_mask="u:t;"
-                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'">Dedicated
+                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text';">Dedicated
                             To One <br />Client At A Time. </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-3-layer-2" data-type="text" data-color="#1a2955" data-rsp_ch="on"
+                        <rs-layer id="slider-1-slide-3-layer-2" data-type="text" data-color="#fff" data-rsp_ch="on"
                             data-xy="xo:15px;yo:461px;" data-text="s:22;l:36;a:inherit;" data-vbility="t,t,t,f"
                             data-frame_0="x:-100%;o:1;" data-frame_0_mask="u:t;" data-frame_1="st:1690;sp:1500;sR:1690;"
                             data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5810;"
-                            style="z-index: 6; font-family: 'Montserrat'">Smart approaches to legal solution service.
+                            style="z-index: 6; font-family: 'Montserrat'">Real Estate Law Specialists.
                         </rs-layer>
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#1a2955"
+                        <rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
-                            data-border="bos:solid;boc:#1a2955;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
+                            data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
                             data-frame_999="o:0;st:w;sR:5850;"
-                            data-frame_hover="c:#fff;bgc:#1a2955;boc:#1a2955;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
+                            data-frame_hover="c:#0b2a4a;bgc:#fff;boc:#fff;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
                             style="
                       z-index: 7;
                       background-color: rgba(0, 0, 0, 0);
