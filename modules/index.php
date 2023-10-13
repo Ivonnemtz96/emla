@@ -101,8 +101,6 @@
         </div>
     </section>
     <!-- ihbox End -->
-
-    <!-- About Start -->
     <section class="section-md">
         <div class="container">
             <div class="row">
@@ -596,8 +594,8 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/homepage-3/testimonial/testimonial-01.jpg"
-                                                                class="img-fluid" alt="" />
+                                                            <img src="images/logo-icon.jpg" class="img-fluid"
+                                                                alt="" />
                                                         </span>
                                                     </span>
                                                 </div>
@@ -636,7 +634,7 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/homepage-3/testimonial/testimonial-02.jpg"
+                                                            <img src="images/logo-icon.jpg"
                                                                 class="img-fluid" alt="" />
                                                         </span>
                                                     </span>
@@ -676,7 +674,7 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/homepage-3/testimonial/testimonial-03.jpg"
+                                                            <img src="images/logo-icon.jpg"
                                                                 class="img-fluid" alt="" />
                                                         </span>
                                                     </span>
@@ -1059,7 +1057,6 @@
     </section>
     <!-- Counter End -->
 
-   
     <!-- Contact Form -->
     <section>
         <div class="container">
@@ -1143,3 +1140,5 @@
     <!-- Iframe End -->
 </div>
 <!-- Page Content End -->
+
+Reputation management.              Business cards with QR to generate reviews at your business and training for your staff to do it properly.
