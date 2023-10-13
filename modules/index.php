@@ -19,7 +19,7 @@
                                             <div class="pbmit-vc_cta3-content-header pbmit-wrap">
                                                 <div class="pbmit-vc_cta3-headers pbmit-wrap-cell">
                                                     <h2 class="pbmit-custom-heading">
-                                                        Financial Analysis
+                                                        Real Estate Law
                                                     </h2>
                                                 </div>
                                             </div>
@@ -27,8 +27,8 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-cta3-content-wrapper">
-                                    Our criminal defense attorneys will protect your rights
-                                    in court.
+                                    Real estate law deals with legal matters concerning properties and real estate,
+                                    ensuring legal transactions and safeguarding the rights of all involved parties.
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@
                                             <div class="pbmit-vc_cta3-content-header pbmit-wrap">
                                                 <div class="pbmit-vc_cta3-headers pbmit-wrap-cell">
                                                     <h2 class="pbmit-custom-heading">
-                                                        Long Experience
+                                                        Notary Procedures
                                                     </h2>
                                                 </div>
                                             </div>
@@ -57,8 +57,9 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-cta3-content-wrapper">
-                                    Our criminal defense attorneys will protect your rights
-                                    in court.
+                                    Efficient Notary Services for All Your Needs. Our notaries handle a wide range of
+                                    legal document processing and verification, ensuring accuracy and compliance for
+                                    your peace of mind.
                                 </div>
                             </div>
                         </div>
@@ -79,7 +80,7 @@
                                             <div class="pbmit-vc_cta3-content-header pbmit-wrap">
                                                 <div class="pbmit-vc_cta3-headers pbmit-wrap-cell">
                                                     <h2 class="pbmit-custom-heading">
-                                                        Our Success Cases
+                                                        Accounting Services
                                                     </h2>
                                                 </div>
                                             </div>
@@ -87,8 +88,9 @@
                                     </div>
                                 </div>
                                 <div class="pbmit-cta3-content-wrapper">
-                                    Our criminal defense attorneys will protect your rights
-                                    in court.
+                                    Providing Expert Accounting and Tax Advisory Services. Our professionals offer
+                                    comprehensive financial guidance, tax planning, and compliance expertise to support
+                                    your financial success.
                                 </div>
                             </div>
                         </div>
@@ -117,8 +119,8 @@
                                 </div>
                                 <div class="pbmit-fld-contents-wrap">
                                     <div class="pbmit-fid-inner">
-                                        <span data-appear-animation="animateDigits" data-from="0" data-to="98"
-                                            data-interval="5" class="numinate">98</span><sub>%</sub>
+                                        <span data-appear-animation="animateDigits" data-from="0" data-to="100"
+                                            data-interval="5" class="numinate">100</span><sub>%</sub>
                                     </div>
                                     <h3 class="pbmit-fid-title">
                                         <span>SUCCESS RATE<br /></span>
@@ -132,37 +134,22 @@
                     <div class="about-two-content">
                         <div class="pbmit-heading-subheading">
                             <h4 class="pbmit-subtitle">Why Choose us</h4>
-                            <h2 class="pbmit-title">Something About Law</h2>
+                            <h2 class="pbmit-title">EMLA Lawyers</h2>
                         </div>
                         <div class="pbmit-firstlater">
                             <p>
-                                Markets & Securities Far far away, behind the word
-                                mountains, far from the countries.
+                                With years of experience in various areas of law, we are here to protect your rights,
+                                resolve your legal issues, and guide you through any legal challenges you may face.
                             </p>
                         </div>
                         <p>
-                            A wonderful serenity has taken possession of my entire soul,
-                            like these sweet mornings of spring.
+                            Our mission is to provide effective and strategic legal solutions tailored to the specific
+                            needs of each client. We value the trust our clients place in us and work tirelessly to
+                            exceed their expectations. Whether you need guidance in real estate law, business law,
+                            litigation, estate planning, or any other legal matter, our team is committed to delivering
+                            exceptional results.
                         </p>
-                        <p>
-                            Which I enjoy with my whole heart. I am alone, and feel the
-                            charm of existence in this spot, which was created for the
-                            bliss of souls like mine. With a genuine focus on client
-                            care. Grow organically the holistic world view.
-                        </p>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="about-two-sing-img">
-                                    <img src="images/homepage-2/sing.jpg" class="img-fluid" alt="" />
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <p>
-                                    <strong>Michael Phillips,</strong><br />Lawyer, non
-                                    tincidunt erat justo
-                                </p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -193,12 +180,14 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-equality"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Family Law</a>
+                                                    <a href="practice-areas-detail.html" tabindex="0">Real State</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        Post a question and get free advice from our
-                                                        experienced lawyers.
+                                                        We advise you in the planning, construction, operation and
+                                                        administration of residential, commercial, industrial and office
+                                                        complexes, as well as the structuring of sales regimes for
+                                                        full-time and timeshare condominiums.
                                                     </p>
                                                 </div>
                                             </div>
@@ -219,12 +208,13 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-law-book"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Education Law</a>
+                                                    <a href="practice-areas-detail.html" tabindex="0">Corporate Law</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        Post a question and get free advice from our
-                                                        experienced lawyers.
+                                                        We provide specialized services in all areas of corporate law,
+                                                        related to the construction and operation of all types of
+                                                        entities in Mexico. <br>
                                                     </p>
                                                 </div>
                                             </div>
@@ -245,12 +235,13 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-legal"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Business Law</a>
+                                                    <a href="practice-areas-detail.html" tabindex="0">Pro Bono</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        Post a question and get free advice from our
-                                                        experienced lawyers.
+                                                        At EMLA Abogados we are committed to supporting the community by
+                                                        providing legal advice to altruistic organizations and less
+                                                        privileged people. <br>
                                                     </p>
                                                 </div>
                                             </div>
