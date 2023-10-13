@@ -37,4 +37,6 @@
     <link rel="stylesheet" href="css/responsive.css" />
     <!-- REVOLUTION STYLE SHEETS -->
     <link rel="stylesheet" type="text/css" href="revolution/rs6.css" />
+    <!-- whats CSS -->
+    <link rel="stylesheet" href="css/whats.css" />
 </head>

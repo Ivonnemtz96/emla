@@ -127,10 +127,10 @@
 	background-color: var(--pbmit-light-color);
 }
 .ihbox-section-two .col-md-4:nth-child(2) .pbmit-ihbox-style-5{
-	background-color: var(--pbmit-blackish-color);
+	background-color: #0b2a4a;
 }
 .ihbox-section-two .col-md-4:last-child .pbmit-ihbox-style-5{
-	background-color: var(--pbmit-global-color);
+	background-color: #364e66;
 }
 .ihbox-section-two .col-md-4:last-child .pbmit-ihbox-style-5 .pbmit-ihbox-icon-wrapper i{
 	color: var(--pbmit-white-color);

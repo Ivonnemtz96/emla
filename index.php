@@ -10,6 +10,7 @@
         include('modules/index.php');
         include('includes/footer.php');
         include('includes/scripts.php');
+        include('includes/whats.php');
         include('includes/redes.php');   
     ?>
 

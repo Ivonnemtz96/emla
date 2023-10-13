@@ -396,7 +396,7 @@ h6 {
      background-color: var(--pbmit-light-color);
 }
  body .pbmit-bg-color-blackish{
-     background-color: var(--pbmit-blackish-color);
+     background-color: #364e66;
 }
  body .pbmit-color-global{
      color: var(--pbmit-global-color);
@@ -802,7 +802,8 @@ body .scroll-to-top {
     z-index: 200;
     opacity: 0;
     bottom: 34px;
-    right: 34px;
+    left: 10px;
+    /* right: 34px; */
     width: 50px;
     height: 50px;
     line-height: 50px;

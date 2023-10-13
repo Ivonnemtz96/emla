@@ -365,7 +365,7 @@
     margin-bottom: 0;
 }
 .pbmit-ihbox-style-5 .pbmit-ihbox-icon-wrapper i{
-    color: var(--pbmit-global-color);
+    color: #fff;
 }
 .pbmit-ihbox-style-5.pbmit-ihbox .pbmit-custom-heading:before{
     background: #fff;
@@ -1178,7 +1178,7 @@
 }
 .pbmit-fidbox-style-2{
     padding: 10px 20px;
-    background-color: var(--pbmit-global-color);
+    background-color: #0b2a4a;
     min-width: 220px;
     position: absolute;
     bottom: 15px;
@@ -1601,7 +1601,7 @@
     margin-bottom: 10px;
 }
 .pbmit-servicebox-style-1 .pbmit-ihbox-icon i{
-	color: var(--pbmit-global-color);
+	color: #fff;
 }
 .pbmit-servicebox-style-1 .pbmit-ihbox-icon i:before{
     font-size: 56px;
@@ -1661,14 +1661,14 @@
 .pbmit-servicebox-style-1:before {
     -webkit-transform: scale(0, 1);
     transform: scale(0, 1);
-	border-top: 1px solid #cdba6d;
-    border-bottom: 1px solid #cdba6d;
+	border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
 }
 .pbmit-servicebox-style-1:after {
     -webkit-transform: scale(1, 0);
     transform: scale(1, 0);
-	border-right: 1px solid #cdba6d;
-    border-left: 1px solid #cdba6d;
+	border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
 }
 .pbmit-servicebox-style-1:hover:before, 
 .pbmit-servicebox-style-1:hover:after {
