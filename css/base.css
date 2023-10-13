@@ -510,7 +510,7 @@ body .pbmit-bg-color-white{
  .site-header .site-branding img {
      display: inline-block;
      height: auto;
-     max-height: 56px;
+     /* max-height: 56px; */
      z-index: 1;
      position: relative;
      -webkit-transition: all 0.4s ease-in-out;

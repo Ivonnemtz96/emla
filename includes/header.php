@@ -4,8 +4,8 @@
         <div class="site-header-menu d-flex justify-content-between align-items-center">
             <div class="site-branding">
                 <h1 class="site-title">
-                    <a href="index.html">
-                        <img class="logo-img" src="images/homepage-7/logo.png" alt="AttorCO" />
+                    <a href="/">
+                        <img class="logo-img" src="images/logo.png?=1" alt="AttorCO" />
                     </a>
                 </h1>
             </div>
@@ -40,7 +40,7 @@
                                         </ul>
                                     </div>
                                     <div class="pbmit-header-btn">
-                                        <a class="pbmit-btn pbmit-btn-global" href="contacts.html" title="">
+                                        <a class="pbmit-btn pbmit-btn-global" href="/#contact" title="">
                                             <span>Contact</span>
                                         </a>
                                     </div>
