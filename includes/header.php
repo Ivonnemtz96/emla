@@ -18,12 +18,12 @@
                                     <div class="pbmit-social-links-wrapper">
                                         <ul class="social-icons">
                                             <li class="pbmit-social-facebook">
-                                                <a class="tooltip-top" target="_blank" href="https://www.facebook.com/">
+                                                <a class="tooltip-top" target="_blank" href="#">
                                                     <i class="pbmit-base-icon-facebook"></i>
                                                 </a>
                                             </li>
                                             <li class="pbmit-social-facebook">
-                                                <a class="tooltip-top" target="_blank" href="https://www.facebook.com/">
+                                                <a class="tooltip-top" target="_blank" href="#">
                                                     <i class="pbmit-base-icon-instagram"></i>
                                                 </a>
                                             </li>
@@ -72,18 +72,18 @@
                                         <a href="/">Home</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/">About Us</a>
+                                        <a href="/#about">About Us</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/">Specialties</a>
+                                        <a href="/#specialties">Specialties</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/">Practice areas</a>
+                                        <a href="/#areas">Practice areas</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/">Reviews</a>
+                                        <a href="/#reviews">Reviews</a>
                                     </li>
-                                    <li><a href="/">Contact</a></li>
+                                    <li><a href="/#contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -158,10 +158,10 @@
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#fff"
+                                <a href="/#contact"><rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
-                            data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
+                            data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;" 
                             data-frame_999="o:0;st:w;sR:5850;"
                             data-frame_hover="c:#0b2a4a;bgc:#fff;boc:#fff;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
                             style="
@@ -174,7 +174,7 @@
                       box-sizing: border-box;
                       -moz-box-sizing: border-box;
                       -webkit-box-sizing: border-box;
-                    ">CONSULTATION<i class="slider-button-icon pbmit-base-icon-right"></i> </rs-layer>
+                    ">CONSULTATION<i class="slider-button-icon pbmit-base-icon-right"></i> </rs-layer></a>
                         <!--
 	-->
                     </rs-slide>
@@ -211,11 +211,11 @@
                         <!--
 
 								-->
-                        <rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#fff"
+                                <a href="/#contact"><rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
                             data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"
-                            data-frame_999="o:0;st:w;sR:5850;"
+                            data-frame_999="o:0;st:w;sR:5850;" 
                             data-frame_hover="c:#0b2a4a;bgc:#fff;boc:#fff;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:0;"
                             style="
                       z-index: 7;
@@ -228,7 +228,7 @@
                       -moz-box-sizing: border-box;
                       -webkit-box-sizing: border-box;
                     ">CONSULTATION<i class="slider-button-icon pbmit-base-icon-right"></i> </rs-layer>
-                        <!--
+                                </a><!--
 	-->
                     </rs-slide>
                 </rs-slides>

@@ -2,7 +2,7 @@
 <div class="page-content">
     <!-- ihbox Start -->
     <section class="ihbox-section-two">
-        <div class="container">
+        <div class="container" id="specialties">
             <div class="row g-0">
                 <div class="col-md-4">
                     <div class="pbmit-ihbox-style-5">
@@ -102,7 +102,7 @@
     </section>
     <!-- ihbox End -->
     <section class="section-md">
-        <div class="container">
+        <div class="container" id="about">
             <div class="row">
                 <div class="col-md-12 col-lg-6">
                     <div class="about-two-img-box">
@@ -133,7 +133,7 @@
                 <div class="col-md-12 col-lg-6">
                     <div class="about-two-content">
                         <div class="pbmit-heading-subheading">
-                            <h4 class="pbmit-subtitle">Why Choose us</h4>
+                            <h4 class="pbmit-subtitle">About us</h4>
                             <h2 class="pbmit-title">EMLA Lawyers</h2>
                         </div>
                         <div class="pbmit-firstlater">
@@ -159,7 +159,7 @@
 
     <!-- Service Start -->
     <section class="section-lg pbmit-bg-color-blackish">
-        <div class="container">
+        <div class="container" id="areas">
             <div class="pbmit-heading-subheading text-center text-white">
                 <h4 class="pbmit-subtitle" style="color: #fff;">Practice Areas</h4>
                 <h2 class="pbmit-title">We are especially skilled in the.</h2>
@@ -180,7 +180,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-legal-document"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Real State</a>
+                                                    <a href="#" tabindex="0">Real State</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
@@ -208,7 +208,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-law-book"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Corporate Law</a>
+                                                    <a href="#" tabindex="0">Corporate Law</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
@@ -235,7 +235,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-legal"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Pro Bono</a>
+                                                    <a href="#" tabindex="0">Pro Bono</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
@@ -262,7 +262,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-briefcase"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Accounting and Tax
+                                                    <a href="#" tabindex="0">Accounting and Tax
                                                         Advisory</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -291,7 +291,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-lawyer-1"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Civil Law</a>
+                                                    <a href="#" tabindex="0">Civil Law</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
@@ -317,7 +317,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-law-book"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Civil and
+                                                    <a href="#" tabindex="0">Civil and
                                                         Commercial Law</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -347,7 +347,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-team"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Notary Services
+                                                    <a href="#" tabindex="0">Notary Services
                                                         and Procedures</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -375,7 +375,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-lawyer-3"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Brokerage
+                                                    <a href="#" tabindex="0">Brokerage
                                                         Procedures</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -404,7 +404,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-law-book"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="practice-areas-detail.html" tabindex="0">Accounting
+                                                    <a href="#" tabindex="0">Accounting
                                                         Services</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -487,7 +487,7 @@
 
     <!-- Portfolio Start -->
     <section class="section-md portfolio-two">
-        <div class="container">
+        <div class="container" >
             <div class="row">
                 <div class="col-md-6">
                     <figure>
@@ -556,7 +556,7 @@
 
     <!-- Testimonial Start -->
     <section class="section-xl pbmit-bg-color-light">
-        <div class="container">
+        <div class="container" id="reviews">
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
@@ -1059,7 +1059,7 @@
 
     <!-- Contact Form -->
     <section>
-        <div class="container">
+        <div class="container" id="contact">
             <div class="row">
                 <div class="col-md-6">
                     <div class="contact-details">
@@ -1089,7 +1089,7 @@
                             <h2 class="pbmit-title">Do You Have Any Questions?</h2>
                         </div>
                         <form method="post" id="contact-form"
-                            action="https://attorco-demo.pbminfotech.com/html-demo/send.php">
+                            action="">
                             <div class="row">
                                 <div class="col-md-12 col-lg-6">
                                     <input type="text" name="name" class="form-control" placeholder="Name" required />
@@ -1140,5 +1140,3 @@
     <!-- Iframe End -->
 </div>
 <!-- Page Content End -->
-
-Reputation management.              Business cards with QR to generate reviews at your business and training for your staff to do it properly.
