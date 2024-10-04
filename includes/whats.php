@@ -30,9 +30,9 @@
                     </div>
 
                     <div class="wa__popup_txt">
-                        <div class="wa__member_name">EMLA Lawyers</div>
+                        <div class="wa__member_name">EMLA Attorney</div>
                         <!-- /.wa__member_name -->
-                        <div class="wa__member_duty">Lawyer 1</div>
+                        <div class="wa__member_duty"></div>
                         <!-- /.wa__member_duty -->
                     </div>
                     <!-- /.wa__popup_txt -->
@@ -40,7 +40,7 @@
             </div>
 
 
-            <div class="wa__popup_content_item ">
+            <div hidden class="wa__popup_content_item ">
                 <a target="_blank"
                     href="https://wa.me/+526241232871?text=Hello,%20EMLA%20Lawyers%20I%20would%20like%20more%20information%20about..."
                     class="wa__stt wa__stt_online">

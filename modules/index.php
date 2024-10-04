@@ -103,11 +103,11 @@
     <!-- ihbox End -->
     <section class="section-md">
         <div class="container" id="about">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-md-6 col-lg-6">
                     <div class="about-two-img-box">
                         <figure>
-                            <img src="images/homepage-2/img-01.jpg" class="img-fluid" alt="" />
+                            <img src="images/homepage-2/02.webp" class="img-fluid" alt="" />
                         </figure>
                         <!-- <div class="pbmit-fidbox-style-2">
                             <div class="pbmit-fld-contents">
@@ -275,7 +275,7 @@
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        At EMLA Lawyers, we provide top-notch accounting and tax
+                                                        At EMLA Attorney, we provide top-notch accounting and tax
                                                         advisory services for individuals and businesses. Our
                                                         experienced team is here to help you optimize your finances,
                                                         ensuring compliance and smart financial strategies.
@@ -304,7 +304,7 @@
                                                 <div class="pbmit-service-content">
                                                     <p>
                                                         Post a question and get free advice from our
-                                                        experienced lawyers.
+                                                        experienced attorney.
                                                     </p>
                                                 </div>
                                             </div>
@@ -417,7 +417,7 @@
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        At EMLA Lawyers, we offer strategic accounting services to
+                                                        At EMLA Attorney, we offer strategic accounting services to
                                                         individuals and businesses. Our expert team is committed to
                                                         helping you achieve financial success through meticulous
                                                         financial planning, tax optimization, and regulatory compliance.
@@ -516,7 +516,7 @@
                                         <span>Experience</span>
                                         <p>
                                             We are a firm with dedicated specialists in various areas, which means no
-                                            single lawyer attempts to cover areas that are not their expertise.
+                                            single attorney attempts to cover areas that are not their expertise.
                                         </p>
                                     </li>
                                     <li class="list-group-item">
@@ -709,13 +709,13 @@
                 <div class="col-md-12">
                     <div class="team-seven-left-box">
                         <div class="pbmit-heading-subheading-style-2">
-                            <h4 class="pbmit-subtitle">Expert lawyer Staff</h4>
+                            <h4 class="pbmit-subtitle">Expert Attorney Staff</h4>
                             <h2 class="pbmit-title">
-                                Meet the EMLA Lawyers Team.
+                                Meet the EMLA Attorneys Team.
                             </h2>
                         </div>
                         <p>
-                            Get to know the dedicated professionals behind EMLA Lawyers, ready to provide expert legal
+                            Get to know the dedicated professionals behind EMLA Attorneys, ready to provide expert legal
                             guidance and support.
                         </p>
                         <a href="/#contact" class="pbmit-btn pbmit-btn-global">
@@ -1011,8 +1011,8 @@
                             </div>
                             <div class="pbmit-fld-contents-wrap">
                                 <div class="pbmit-fid-inner">
-                                    <span data-appear-animation="animateDigits" data-from="0" data-to="240"
-                                        data-interval="5" class="numinate">240</span>
+                                    <span data-appear-animation="animateDigits" data-from="0" data-to="600"
+                                        data-interval="5" class="numinate">600</span>+
                                 </div>
                                 <h3 class="pbmit-fid-title">
                                     <span>Projects Done<br /></span>
@@ -1053,8 +1053,8 @@
                             </div>
                             <div class="pbmit-fld-contents-wrap">
                                 <div class="pbmit-fid-inner">
-                                    <span data-appear-animation="animateDigits" data-from="0" data-to="120"
-                                        data-interval="5" class="numinate">120</span>
+                                    <span data-appear-animation="animateDigits" data-from="0" data-to="600"
+                                        data-interval="5" class="numinate">600</span>+
                                 </div>
                                 <h3 class="pbmit-fid-title">
                                     <span>Happy Customers<br /></span>
@@ -1105,7 +1105,7 @@
                         </p>
                         <h5>Opening Hour</h5>
                         <p>
-                            Monday – Friday: 9am to 8pm <br />
+                            Monday – Friday: 8am to 5pm <br />
                         </p>
                         <h5>Call Us Today</h5>
                         <p>

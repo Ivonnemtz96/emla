@@ -128,9 +128,9 @@
                     <rs-slide style="position: absolute" data-key="rs-1" data-title="Slide"
                         data-thumb="revolution/images/slider-6-01-100x50.jpg?=2" data-anim="adpr:false;p:dark;f:center;"
                         data-in="o:0;sx:1.1;sy:1.1;m:true;row:30;col:30;" data-out="a:false;">
-                        <img src="revolution/images/slider4-02.jpg?=2" alt="" title="slider-6-01" width="1920"
+                        <img src="revolution/images/01.webp?=3" alt="" title="slider-6-01" width="1920"
                             height="790" class="rev-slidebg tp-rs-img rs-lazyload"
-                            data-lazyload="revolution/images/slider4-02.jpg?=2" data-no-retina />
+                            data-lazyload="revolution/images/01.webp?=3" data-no-retina />
                         <!--
 								-->
                         <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on"
@@ -144,8 +144,8 @@
                             data-xy="xo:15px;yo:284px,284px,284px,134px;"
                             data-text="s:80,80,80,40;l:80,80,80,50;a:inherit;" data-frame_0="x:-100%;o:1;"
                             data-frame_0_mask="u:t;" data-frame_1="st:900;sp:1500;sR:900;" data-frame_1_mask="u:t;"
-                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'">
-                            Specialist <br> Attorney(s). </rs-layer>
+                            data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'; margin-top:5rem;">
+                            Specialist <br> Attorney(s)</rs-layer>
                         <!--
 
 								-->
@@ -153,7 +153,7 @@
                             data-xy="xo:15px;yo:461px;" data-text="s:22;l:36;a:inherit;" data-vbility="t,t,t,f"
                             data-frame_0="x:-100%;o:1;" data-frame_0_mask="u:t;" data-frame_1="st:1690;sp:1500;sR:1690;"
                             data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:5810;"
-                            style="z-index: 6; font-family: 'Montserrat'">Accounting and Tax Advisory..
+                            style="z-index: 6; font-family: 'Montserrat'">
                         </rs-layer>
                         <!--
 
