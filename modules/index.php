@@ -50,7 +50,7 @@
                                             <div class="pbmit-vc_cta3-content-header pbmit-wrap">
                                                 <div class="pbmit-vc_cta3-headers pbmit-wrap-cell">
                                                     <h2 class="pbmit-custom-heading">
-                                                        Notary Procedures
+                                                        Legal Consultacy
                                                     </h2>
                                                 </div>
                                             </div>
@@ -81,7 +81,7 @@
                                             <div class="pbmit-vc_cta3-content-header pbmit-wrap">
                                                 <div class="pbmit-vc_cta3-headers pbmit-wrap-cell">
                                                     <h2 class="pbmit-custom-heading">
-                                                        Accounting Services
+                                                        Tax Services
                                                     </h2>
                                                 </div>
                                             </div>
@@ -104,12 +104,12 @@
     <section class="section-md">
         <div class="container" id="about">
             <div class="row">
-                <div class="col-md-12 col-lg-6">
+                <div class="col-md-6 col-lg-6">
                     <div class="about-two-img-box">
                         <figure>
                             <img src="images/homepage-2/img-01.jpg" class="img-fluid" alt="" />
                         </figure>
-                        <div class="pbmit-fidbox-style-2">
+                        <!-- <div class="pbmit-fidbox-style-2">
                             <div class="pbmit-fld-contents">
                                 <div class="pbmit-ihbox-icon pbmit-large-icon">
                                     <div class="pbmit-sbox-icon-wrapper">
@@ -127,28 +127,36 @@
                                     </h3>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-6">
+                <div class="col-md-6 col-lg-6">
                     <div class="about-two-content">
                         <div class="pbmit-heading-subheading">
                             <h4 class="pbmit-subtitle">About us</h4>
-                            <h2 class="pbmit-title">EMLA Lawyers</h2>
+                            <h2 class="pbmit-title">EMLA Attorney(s)</h2>
                         </div>
                         <div class="pbmit-firstlater">
                             <p>
-                                With years of experience in various areas of law, we are here to protect your rights,
-                                resolve your legal issues, and guide you through any legal challenges you may face.
+
+                                At EMLA, we are dedicated to providing exceptional legal services with a commitment to
+                                excellence, integrity, and personalized attention. Our team of experienced attorneys
+                                specializes in a wide range of practice areas, including real estate law, tax law,
+                                corporate law, and estate planning. We pride ourselves on our deep understanding of the
+                                law, our strategic approach to each case, and our unwavering dedication to achieving the
+                                best possible outcomes for our clients. Whether you are an individual, a family, or a
+                                business, we are here to guide you through complex legal challenges with compassion and
+                                expertise. Trust EMLA to be your steadfast advocate, delivering the highest standards of
+                                legal representation and support.
                             </p>
                         </div>
-                        <p>
+                        <!-- <p>
                             Our mission is to provide effective and strategic legal solutions tailored to the specific
                             needs of each client. We value the trust our clients place in us and work tirelessly to
                             exceed their expectations. Whether you need guidance in real estate law, business law,
                             litigation, estate planning, or any other legal matter, our team is committed to delivering
                             exceptional results.
-                        </p>
+                        </p> -->
 
                     </div>
                 </div>
@@ -161,7 +169,7 @@
     <section class="section-lg pbmit-bg-color-blackish">
         <div class="container" id="areas">
             <div class="pbmit-heading-subheading text-center text-white">
-                <h4 class="pbmit-subtitle" style="color: #fff;">Practice Areas</h4>
+                <h4 class="pbmit-subtitle" style="color: #fff;">Areas of Practice</h4>
                 <h2 class="pbmit-title">We are especially skilled in the.</h2>
             </div>
             <div class="service-arrow swiper-btn-custom d-flex flex-row-reverse">
@@ -347,12 +355,12 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-team"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="#" tabindex="0">Notary Services
+                                                    <a href="#" tabindex="0"> Legal Consultacy
                                                         and Procedures</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
                                                     <p>
-                                                        Our notary services provide a streamlined approach to handling
+                                                        Our Legal Consultacy provide a streamlined approach to handling
                                                         legal documentation and processes, ensuring accuracy and
                                                         compliance.
                                                     </p>
@@ -404,7 +412,7 @@
                                                         class="pbmit-attorco-business-icon pbmit-attorco-business-icon-law-book"></i>
                                                 </div>
                                                 <h3>
-                                                    <a href="#" tabindex="0">Accounting
+                                                    <a href="#" tabindex="0">Tax
                                                         Services</a>
                                                 </h3>
                                                 <div class="pbmit-service-content">
@@ -487,11 +495,11 @@
 
     <!-- Portfolio Start -->
     <section class="section-md portfolio-two">
-        <div class="container" >
+        <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <figure>
-                        <img src="/images/01.jpg" class="img-fluid" alt="" />
+                        <img src="images/01.jpg" class="img-fluid" alt="" />
                     </figure>
                 </div>
                 <div class="col-md-6">
@@ -594,8 +602,7 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/logo-icon.jpg" class="img-fluid"
-                                                                alt="" />
+                                                            <img src="images/logo-icon.jpg" class="img-fluid" alt="" />
                                                         </span>
                                                     </span>
                                                 </div>
@@ -634,8 +641,7 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/logo-icon.jpg"
-                                                                class="img-fluid" alt="" />
+                                                            <img src="images/logo-icon.jpg" class="img-fluid" alt="" />
                                                         </span>
                                                     </span>
                                                 </div>
@@ -674,8 +680,7 @@
                                                 <div class="pbmit-box-img">
                                                     <span class="pbmit-item-thumbnail">
                                                         <span class="pbmit-item-thumbnail-inner">
-                                                            <img src="images/logo-icon.jpg"
-                                                                class="img-fluid" alt="" />
+                                                            <img src="images/logo-icon.jpg" class="img-fluid" alt="" />
                                                         </span>
                                                     </span>
                                                 </div>
@@ -697,96 +702,11 @@
     </section>
     <!-- testimonial End -->
 
-
-    <!-- Client Start -->
-    <section class="client-section-one">
-        <div class="container">
-            <div class="swiper-slider" data-loop="true" data-autoplay="true" data-dots="false" data-arrows="false"
-                data-columns="5" data-margin="30" data-effect="slide">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <!-- Slide1 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 01">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-01.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <!-- Slide2 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 02">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-02.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <!-- Slide3 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 03">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-03.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <!-- Slide4 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 04">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-04.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <!-- Slide5 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 05">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-05.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <!-- Slide6 -->
-                        <div class="pbmit-client-logo-tooltip" data-tooltip="Client 06">
-                            <div class="pbmit-clientbox-style-1">
-                                <span class="pbmit-item-thumbnail">
-                                    <span class="pbmit-item-thumbnail-inner">
-                                        <img src="images/homepage-3/client/Client-06.png" class="img-fluid" alt="" />
-                                    </span>
-                                </span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Client End -->
-
     <!-- Team Start -->
     <section class="team-section-seven">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-xl-9">
+        <div class="container mt-4">
+            <div class="row justify-content-center">
+                <div class="col-md-12">
                     <div class="team-seven-left-box">
                         <div class="pbmit-heading-subheading-style-2">
                             <h4 class="pbmit-subtitle">Expert lawyer Staff</h4>
@@ -804,21 +724,20 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-12 col-xl-3">
+                <div class="col-md-12 align-items-center">
                     <div class="team-seven-right-box">
                         <div class="team-seven-bg-layer"></div>
                         <div class="swiper-slider" data-loop="true" data-autoplay="true" data-dots="false"
-                            data-arrows="false" data-columns="2" data-margin="30" data-effect="slide">
+                            data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
                             <div class="swiper-wrapper">
-                                <div class="swiper-slide">
+                            <div class="swiper-slide">
                                     <!-- Slide1 -->
                                     <article class="pbmit-teambox-style-5">
                                         <div class="pbmit-post-item">
                                             <div class="pbmit-team-image-box">
                                                 <span class="pbmit-item-thumbnail">
                                                     <span class="pbmit-item-thumbnail-inner">
-                                                        <img src="images/homepage-7/team/team-01.jpg" class="img-fluid"
-                                                            alt="" />
+                                                        <img src="images/team/01.webp" class="img-fluid" alt="" />
                                                     </span>
                                                 </span>
                                             </div>
@@ -826,12 +745,12 @@
 
                                                 <div class="pbmit-box-content-inner">
                                                     <div class="pbmit-box-team-position pbmit-skincolor">
-                                                        Puesto
+                                                        Partner – Attorney
                                                     </div>
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Nombre</a>
+                                                                <a href="#" tabindex="0">Lic. Javier Madero</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -847,20 +766,19 @@
                                             <div class="pbmit-team-image-box">
                                                 <span class="pbmit-item-thumbnail">
                                                     <span class="pbmit-item-thumbnail-inner">
-                                                        <img src="images/homepage-7/team/team-02.jpg" class="img-fluid"
-                                                            alt="" />
+                                                        <img src="images/team/02.webp" class="img-fluid" alt="" />
                                                     </span>
                                                 </span>
                                             </div>
                                             <div class="pbmit-box-content">
                                                 <div class="pbmit-box-content-inner">
                                                     <div class="pbmit-box-team-position pbmit-skincolor">
-                                                        Puesto
+                                                        Partner – Attorney
                                                     </div>
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Nombre</a>
+                                                                <a href="#" tabindex="0">Lic. Sofia Chiapa</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -869,6 +787,7 @@
                                         </div>
                                     </article>
                                 </div>
+                                
                                 <div class="swiper-slide">
                                     <!-- Slide3 -->
                                     <article class="pbmit-teambox-style-5">
@@ -876,20 +795,19 @@
                                             <div class="pbmit-team-image-box">
                                                 <span class="pbmit-item-thumbnail">
                                                     <span class="pbmit-item-thumbnail-inner">
-                                                        <img src="images/homepage-7/team/team-03.jpg" class="img-fluid"
-                                                            alt="" />
+                                                        <img src="images/team/03.webp" class="img-fluid" alt="" />
                                                     </span>
                                                 </span>
                                             </div>
                                             <div class="pbmit-box-content">
                                                 <div class="pbmit-box-content-inner">
                                                     <div class="pbmit-box-team-position pbmit-skincolor">
-                                                        Puesto
+                                                        Partner – Attorney
                                                     </div>
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Nombre</a>
+                                                                <a href="#" tabindex="0">Lic. Aldair Hernandez</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -905,20 +823,19 @@
                                             <div class="pbmit-team-image-box">
                                                 <span class="pbmit-item-thumbnail">
                                                     <span class="pbmit-item-thumbnail-inner">
-                                                        <img src="images/homepage-7/team/team-04.jpg" class="img-fluid"
-                                                            alt="" />
+                                                        <img src="images/team/04.webp" class="img-fluid" alt="" />
                                                     </span>
                                                 </span>
                                             </div>
                                             <div class="pbmit-box-content">
                                                 <div class="pbmit-box-content-inner">
                                                     <div class="pbmit-box-team-position pbmit-skincolor">
-                                                        Puesto
+                                                        Closing Attorney
                                                     </div>
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Nombre</a>
+                                                                <a href="#" tabindex="0">Lic. Jesus Garcia</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -934,20 +851,135 @@
                                             <div class="pbmit-team-image-box">
                                                 <span class="pbmit-item-thumbnail">
                                                     <span class="pbmit-item-thumbnail-inner">
-                                                        <img src="images/homepage-7/team/team-05.jpg" class="img-fluid"
-                                                            alt="" />
+                                                        <img src="images/team/05.webp" class="img-fluid" alt="" />
                                                     </span>
                                                 </span>
                                             </div>
                                             <div class="pbmit-box-content">
                                                 <div class="pbmit-box-content-inner">
                                                     <div class="pbmit-box-team-position pbmit-skincolor">
-                                                        Puesto
+                                                        Closing Attorney
                                                     </div>
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Nombre</a>
+                                                                <a href="#" tabindex="0">Lic. Perla Gavarain</a>
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Slide5 -->
+                                    <article class="pbmit-teambox-style-5">
+                                        <div class="pbmit-post-item">
+                                            <div class="pbmit-team-image-box">
+                                                <span class="pbmit-item-thumbnail">
+                                                    <span class="pbmit-item-thumbnail-inner">
+                                                        <img src="images/team/06.webp" class="img-fluid" alt="" />
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div class="pbmit-box-content">
+                                                <div class="pbmit-box-content-inner">
+                                                    <div class="pbmit-box-team-position pbmit-skincolor">
+                                                        Consultant Attorney
+                                                    </div>
+                                                    <div class="pbmit-pf-box-title">
+                                                        <div class="pbmit-box-title">
+                                                            <h4>
+                                                                <a href="#" tabindex="0">Lic. Miguel German</a>
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Slide5 -->
+                                    <article class="pbmit-teambox-style-5">
+                                        <div class="pbmit-post-item">
+                                            <div class="pbmit-team-image-box">
+                                                <span class="pbmit-item-thumbnail">
+                                                    <span class="pbmit-item-thumbnail-inner">
+                                                        <img src="images/team/07.webp" class="img-fluid" alt="" />
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div class="pbmit-box-content">
+                                                <div class="pbmit-box-content-inner">
+                                                    <div class="pbmit-box-team-position pbmit-skincolor">
+                                                        Executive Assistant – Front Desk
+                                                    </div>
+                                                    <div class="pbmit-pf-box-title">
+                                                        <div class="pbmit-box-title">
+                                                            <h4>
+                                                                <a href="#" tabindex="0">Lic. Marisela Galaviz</a>
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Slide5 -->
+                                    <article class="pbmit-teambox-style-5">
+                                        <div class="pbmit-post-item">
+                                            <div class="pbmit-team-image-box">
+                                                <span class="pbmit-item-thumbnail">
+                                                    <span class="pbmit-item-thumbnail-inner">
+                                                        <img src="images/team/08.webp" class="img-fluid" alt="" />
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div class="pbmit-box-content">
+                                                <div class="pbmit-box-content-inner">
+                                                    <div class="pbmit-box-team-position pbmit-skincolor">
+                                                        Accountant
+                                                    </div>
+                                                    <div class="pbmit-pf-box-title">
+                                                        <div class="pbmit-box-title">
+                                                            <h4>
+                                                                <a href="#" tabindex="0">Lic. Mauricio Aburto</a>
+                                                            </h4>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <!-- Slide5 -->
+                                    <article class="pbmit-teambox-style-5">
+                                        <div class="pbmit-post-item">
+                                            <div class="pbmit-team-image-box">
+                                                <span class="pbmit-item-thumbnail">
+                                                    <span class="pbmit-item-thumbnail-inner">
+                                                        <img src="images/team/09.webp" class="img-fluid" alt="" />
+                                                    </span>
+                                                </span>
+                                            </div>
+                                            <div class="pbmit-box-content">
+                                                <div class="pbmit-box-content-inner">
+                                                    <div class="pbmit-box-team-position pbmit-skincolor">
+                                                        Accountant
+                                                    </div>
+                                                    <div class="pbmit-pf-box-title">
+                                                        <div class="pbmit-box-title">
+                                                            <h4>
+                                                                <a href="#" tabindex="0">Lic. Mercedes Guerrero</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -1088,8 +1120,7 @@
                             <h4 class="pbmit-subtitle">PLEASE Fill Form</h4>
                             <h2 class="pbmit-title">Do You Have Any Questions?</h2>
                         </div>
-                        <form method="post" id="contact-form"
-                            action="">
+                        <form method="post" id="contact-form" action="">
                             <div class="row">
                                 <div class="col-md-12 col-lg-6">
                                     <input type="text" name="name" class="form-control" placeholder="Name" required />
@@ -1133,7 +1164,7 @@
         <div class="contact-section-iframe">
 
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.353167027025!2d-109.6976474242634!3d23.047510415396374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b356b98dee5%3A0x669bc30707be042c!2sEMLA%20ABOGADOS!5e0!3m2!1ses-419!2smx!4v1697231228126!5m2!1ses-419!2smx"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1091.3951221915802!2d-109.69466158724111!3d23.06042552466325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a5817c684f%3A0xa1d9fbf92ed1c639!2splaza%20atrium%20san%20jose!5e0!3m2!1sen!2smx!4v1718656401721!5m2!1sen!2smx"
                 allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </section>

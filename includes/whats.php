@@ -8,7 +8,7 @@
 <div class="wa__popup_chat_box">
     <div class="wa__popup_heading">
        
-        <div class="wa__popup_title"> <img style="width: 3rem;margin-right: .5rem;" src="/images/logo-icon.jpg?=1" alt="">One of our experts </div>
+        <div class="wa__popup_title"> <img style="width: 3rem;margin-right: .5rem;" src="images/logo-icon.jpg?=1" alt="">One of our experts </div>
         <div class="wa__popup_intro">will be replying <strong>on WhatsApp.</strong>
             <div id="\&quot;eJOY__extension_root\&quot;"></div>
         </div>
@@ -25,7 +25,7 @@
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
-                            <img style="width: 2rem;" src="/images/logo-icon.jpg?=1" alt="">
+                            <img style="width: 2rem;" src="images/logo-icon.jpg?=1" alt="">
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
-                            <img style="width: 2rem;" src="/images/logo-icon.jpg?=1" alt="">
+                            <img style="width: 2rem;" src="images/logo-icon.jpg?=1" alt="">
                         </div>
                     </div>
 

@@ -4,8 +4,8 @@
         <div class="site-header-menu d-flex justify-content-between align-items-center">
             <div class="site-branding">
                 <h1 class="site-title">
-                    <a href="/">
-                        <img class="logo-img" src="images/logo.png?=1" alt="AttorCO" />
+                    <a href="index.php">
+                        <img class="logo-img" src="images/logo.png?=1" alt="EMLA " />
                     </a>
                 </h1>
             </div>
@@ -40,7 +40,7 @@
                                         </ul>
                                     </div>
                                     <div class="pbmit-header-btn">
-                                        <a class="pbmit-btn pbmit-btn-global" href="/#contact" title="">
+                                        <a class="pbmit-btn pbmit-btn-global" href="index.php#contact" title="">
                                             <span>Contact</span>
                                         </a>
                                     </div>
@@ -69,21 +69,21 @@
                                 </div>
                                 <ul class="navigation clearfix">
                                     <li class="dropdown active">
-                                        <a href="/">Home</a>
+                                        <a href="index.php">Home</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/#about">About Us</a>
+                                        <a href="index.php#about">About Us</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/#specialties">Specialties</a>
+                                        <a href="index.php#specialties">Specialties</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/#areas">Practice areas</a>
+                                        <a href="index.php#areas">Practice areas</a>
                                     </li>
                                     <li class="dropdown">
-                                        <a href="/#reviews">Reviews</a>
+                                        <a href="index.php#reviews">Reviews</a>
                                     </li>
-                                    <li><a href="/#contact">Contact</a></li>
+                                    <li><a href="index.php#contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -93,7 +93,7 @@
                             <div class="info-widget-inner">
                                 <div class="media-top">
                                     <i class="pbmit-base-icon-phone-call"></i>
-                                    <h4><a target="_blank" href="tel:+526241524089">Call us : +52 624 152 4089 </a></h4>
+                                    <h4><a target="_blank" href="tel:+526241232871">Call us : +52  624 123 2871 </a></h4>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +102,7 @@
                                 <div class="media-top">
                                     <i class="pbmit-base-icon-location-pin"></i>
                                     <h4><a target="_blank" href="https://maps.app.goo.gl/FkFPwLVhBW79GiCk6">
-                                    Plaza del Pescador, Local O3 y O4
+                                    Plaza Atrium, Int. 7 Boulevard Antonio Mijares
                                     </a></h4>
                                 </div>
                             </div>
@@ -128,9 +128,9 @@
                     <rs-slide style="position: absolute" data-key="rs-1" data-title="Slide"
                         data-thumb="revolution/images/slider-6-01-100x50.jpg?=2" data-anim="adpr:false;p:dark;f:center;"
                         data-in="o:0;sx:1.1;sy:1.1;m:true;row:30;col:30;" data-out="a:false;">
-                        <img src="revolution/images/slider-6-01.jpg?=2" alt="" title="slider-6-01" width="1920"
+                        <img src="revolution/images/slider4-02.jpg?=2" alt="" title="slider-6-01" width="1920"
                             height="790" class="rev-slidebg tp-rs-img rs-lazyload"
-                            data-lazyload="revolution/images/slider-6-01.jpg?=2" data-no-retina />
+                            data-lazyload="revolution/images/slider4-02.jpg?=2" data-no-retina />
                         <!--
 								-->
                         <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on"
@@ -145,7 +145,7 @@
                             data-text="s:80,80,80,40;l:80,80,80,50;a:inherit;" data-frame_0="x:-100%;o:1;"
                             data-frame_0_mask="u:t;" data-frame_1="st:900;sp:1500;sR:900;" data-frame_1_mask="u:t;"
                             data-frame_999="o:0;st:w;sR:6600;" style="z-index: 5; font-family: 'Crimson Text'">
-                            Specialist <br> Lawyer. </rs-layer>
+                            Specialist <br> Attorney(s). </rs-layer>
                         <!--
 
 								-->
@@ -158,7 +158,7 @@
                         <!--
 
 								-->
-                                <a href="/#contact"><rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#fff"
+                                <a href="index.php#contact"><rs-layer id="slider-1-slide-1-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
                             data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;" 
@@ -211,7 +211,7 @@
                         <!--
 
 								-->
-                                <a href="/#contact"><rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#fff"
+                                <a href="index.php#contact"><rs-layer id="slider-1-slide-3-layer-5" class="rev-btn" data-type="button" data-color="#fff"
                             data-rsp_ch="on" data-xy="xo:15px;yo:530px,530px,530px,257px;"
                             data-text="s:13;l:24;ls:1px;fw:600;a:inherit;" data-padding="t:12;r:35;b:12;l:35;"
                             data-border="bos:solid;boc:#fff;bow:2,2,2,2;" data-frame_1="st:2650;sp:500;sR:2650;"

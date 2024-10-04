@@ -5,7 +5,10 @@
             <div class="pbmit-footer-text-inner">
                 <div class="row">
                     <div class="col-md-12">
-                        Copyright EMLA Lawayers ® 2023. Diseñado por<a href="https://www.bananagroup.mx/" target="_blank"> Banana Group Marketing</a>. All rights reserved. | <a href="#">Privacy Policies </a>
+                        Copyright EMLA Abogados ® 2024. Design by <a href="https://www.bananagroup.mx/"
+                            target="_blank"> Banana Group Marketing</a>. | <a target="_blank"
+                            href="https://www.emlaabogados.com/wp-content/uploads/2021/03/AVISO-DE-PRIVACIDAD.pdf">Privacy
+                            Policies </a>
                     </div>
                 </div>
             </div>

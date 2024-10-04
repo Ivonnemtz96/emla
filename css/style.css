@@ -725,7 +725,7 @@
 	background-color: var(--pbmit-blackish-color);
 }
 .team-seven-right-box .swiper-slider{
-	margin-left: -500px;
+	/* margin-left: -500px; */
 }
 .history-content-wrapper{
 	width: 60%;
@@ -1968,7 +1968,7 @@
 .contact-form:before{
 	content: "";
 	position: absolute;
-	width: 164%;
+	/* width: 164%; */
 	height: 100%;
 	top: 0;
 	left: 0;
