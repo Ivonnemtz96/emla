@@ -128,9 +128,9 @@
                     <rs-slide style="position: absolute" data-key="rs-1" data-title="Slide"
                         data-thumb="revolution/images/slider-6-01-100x50.jpg?=2" data-anim="adpr:false;p:dark;f:center;"
                         data-in="o:0;sx:1.1;sy:1.1;m:true;row:30;col:30;" data-out="a:false;">
-                        <img src="revolution/images/01.webp?=3" alt="" title="slider-6-01" width="1920"
+                        <img src="revolution/images/03.webp?=3" alt="" title="slider-6-01" width="1920"
                             height="790" class="rev-slidebg tp-rs-img rs-lazyload"
-                            data-lazyload="revolution/images/01.webp?=3" data-no-retina />
+                            data-lazyload="revolution/images/03.webp?=3" data-no-retina />
                         <!--
 								-->
                         <rs-layer id="slider-1-slide-1-layer-0" data-type="image" data-rsp_ch="on"

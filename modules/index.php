@@ -730,7 +730,7 @@
                         <div class="swiper-slider" data-loop="true" data-autoplay="true" data-dots="false"
                             data-arrows="false" data-columns="3" data-margin="30" data-effect="slide">
                             <div class="swiper-wrapper">
-                            <div class="swiper-slide">
+                                <div class="swiper-slide">
                                     <!-- Slide1 -->
                                     <article class="pbmit-teambox-style-5">
                                         <div class="pbmit-post-item">
@@ -787,7 +787,7 @@
                                         </div>
                                     </article>
                                 </div>
-                                
+
                                 <div class="swiper-slide">
                                     <!-- Slide3 -->
                                     <article class="pbmit-teambox-style-5">
@@ -921,7 +921,7 @@
                                                     <div class="pbmit-pf-box-title">
                                                         <div class="pbmit-box-title">
                                                             <h4>
-                                                                <a href="#" tabindex="0">Lic. Marisela Galaviz</a>
+                                                                <a href="#" tabindex="0">C.P. Marisela Galaviz</a>
                                                             </h4>
                                                         </div>
                                                     </div>
@@ -1120,13 +1120,13 @@
                             <h4 class="pbmit-subtitle">PLEASE Fill Form</h4>
                             <h2 class="pbmit-title">Do You Have Any Questions?</h2>
                         </div>
-                        <form method="post" id="contact-form" action="">
+                        <form method="post" id="contact-form" action="/php/contact.php">
                             <div class="row">
                                 <div class="col-md-12 col-lg-6">
-                                    <input type="text" name="name" class="form-control" placeholder="Name" required />
+                                    <input type="text" name="nombre" class="form-control" placeholder="Name" required />
                                 </div>
                                 <div class="col-md-12 col-lg-6">
-                                    <input type="text" name="name" class="form-control" placeholder="Last Name"
+                                    <input type="text" name="apellido" class="form-control" placeholder="Last Name"
                                         required />
                                 </div>
                                 <div class="col-md-12 col-lg-6">
@@ -1134,16 +1134,20 @@
                                         required />
                                 </div>
                                 <div class="col-md-12 col-lg-6">
-                                    <input type="text" name="number" class="form-control" placeholder="Phone"
+                                    <input type="text" name="tel" class="form-control" placeholder="Phone"
                                         required />
                                 </div>
                                 <div class="col-md-12">
-                                    <textarea name="message" cols="40" rows="4" class="form-control"
+                                    <textarea name="msj" cols="40" rows="4" class="form-control"
                                         placeholder="Message" required=""></textarea>
                                 </div>
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                        required></div>
+                                </div>
                                 <div class="col-md-12 col-lg-6">
-                                    <button type="submit"
-                                        class="pbmit-btn pbmit-btn-global pbmit-btn-shape-round w-100">
+                                    <button type="submit" name="submit"
+                                        class="pbmit-btn pbmit-btn-shape-round w-100">
                                         <i
                                             class="form-btn-loader fa fa-circle-o-notch fa-spin fa-fw margin-bottom d-none"></i>
                                         SEND MESSAGE

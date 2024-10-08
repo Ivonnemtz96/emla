@@ -38,4 +38,7 @@
     <link rel="stylesheet" type="text/css" href="revolution/rs6.css" />
     <!-- whats CSS -->
     <link rel="stylesheet" href="css/whats.css" />
+
+    <!-- captcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
